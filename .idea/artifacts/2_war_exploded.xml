@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="在线投稿审稿管理系统2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="submission_review_system/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="submission_review_system" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

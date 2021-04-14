@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="在线投稿审稿管理系统2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbc5ca75-f576-4eb6-bbe8-a1d40fdae815" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c92c98da-cdd8-4748-9022-407596bde5bd" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/HTML/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1dhq292KclG8oKD1tutRgRnajPV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\360MoveData\Users\张振东\Desktop\数据库概论\课设\在线投稿审稿管理系统2\web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\360MoveData\Users\张振东\Desktop\数据库概论\课设\在线投稿审稿管理系统2\web" />
+      <recent name="D:\360MoveData\Users\张振东\Desktop\数据库概论\课设\在线投稿审稿管理系统2\web\WEB-INF" />
+      <recent name="D:\360MoveData\Users\张振东\Desktop\数据库概论\课设\在线投稿审稿管理系统2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.64">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 在线投稿审稿管理系统2 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission_review_system" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="submission_review_system" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="submission_review_system" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.64" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.64" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="在线投稿审稿管理系统2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_18130047班第二组在线投稿审稿管理系统_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62157" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="在线投稿审稿管理系统2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in 在线投稿审稿管理系统2 (2)" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.64" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in 在线投稿审稿管理系统2 (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc5ca75-f576-4eb6-bbe8-a1d40fdae815" name="Default Changelist" comment="" />
+      <created>1592887462609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592887462609</updated>
+      <workItem from="1592887468485" duration="24109000" />
+      <workItem from="1592957483831" duration="12432000" />
+      <workItem from="1618364454389" duration="2832000" />
+      <workItem from="1618380984256" duration="1269000" />
+      <workItem from="1618403000463" duration="4900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="47" width="1089" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618405224045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="47" width="1089" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1618405224045" />
+    <state x="523" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1618404956447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1618404956447" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1618407911442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618407911442" />
+    <state x="554" y="310" key="Github.ShareDialog" timestamp="1618408563867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1618408563867" />
+    <state width="1024" height="214" key="GridCell.Tab.0.bottom" timestamp="1618407494003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618407494003" />
+    <state width="1024" height="214" key="GridCell.Tab.0.center" timestamp="1618407494003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618407494003" />
+    <state width="1024" height="214" key="GridCell.Tab.0.left" timestamp="1618407494003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618407494003" />
+    <state width="1024" height="214" key="GridCell.Tab.0.right" timestamp="1618407494003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618407494003" />
+    <state width="1024" height="214" key="GridCell.Tab.1.bottom" timestamp="1618407493759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618407493759" />
+    <state width="1024" height="214" key="GridCell.Tab.1.center" timestamp="1618407493759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1618407493759" />
+    <state width="1024" height="214" key="GridCell.Tab.1.left" timestamp="1618407493759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1618407493759" />
+    <state width="1024" height="214" key="GridCell.Tab.1.right" timestamp="1618407493759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1618407493759" />
+    <state width="1024" height="214" key="GridCell.Tab.2.bottom" timestamp="1618407493759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618407493759" />
+    <state width="1024" height="214" key="GridCell.Tab.2.center" timestamp="1618407493759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1618407493759" />
+    <state width="1024" height="214" key="GridCell.Tab.2.left" timestamp="1618407493759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1618407493759" />
+    <state width="1024" height="214" key="GridCell.Tab.2.right" timestamp="1618407493759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1618407493759" />
+    <state width="307" height="477" key="HiddenNamespacesPopup" timestamp="1618403197367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="307" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1618403197367" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1618408233409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618408233409" />
+    <state x="583" y="299" width="370" height="248" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1618406880185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="583" y="299" width="370" height="248" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1618406880185" />
+    <state x="579" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1618404446930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1618404446930" />
+    <state x="360" y="73" key="new project wizard" timestamp="1618367989558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1618367989558" />
+  </component>
+</project>
